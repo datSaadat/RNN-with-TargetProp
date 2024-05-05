@@ -1,13 +1,13 @@
 # RNN with Difference Target Propagation
 
-Numpy implementation of "Target Propagation in Recurrent Neural Networks" 
+Numpy implementation of "Target Propagation in Recurrent Neural Networks" (https://sites.google.com/view/saadatsaquib/research-blogs)
 
 </br>
 Paper link - [https://www.jmlr.org/papers/volume21/18-141/18-141.pdf](https://github.com/nmanchev/tptt?tab=readme-ov-file#recurrent-neural-network-with-target-propagation-through-time) </br>
 Original Github repo by authors - [https://github.com/nmanchev/tptt?tab=readme-ov-file#recurrent-neural-network-with-target-propagation-through-time](https://github.com/nmanchev/tptt?tab=readme-ov-file#recurrent-neural-network-with-target-propagation-through-time) </br>
 **Note** : The original code is in Theano
 
-
+ 
 
 
 <br>
